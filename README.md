@@ -21,7 +21,7 @@ Designed and instituted multiple fail safes to make common errors impossible to 
 
 I like to browse R/excel for interesting problems, here are some of my favorite:
 
-![Request: User has a list of addresses with missing zipcodes and needs to validate them and get the zipcode.](https://github.com/Impcodeisok/excel/blob/main/README.md#:~:text=of%20Excel%20code-,Missing%20Zip%20Codes,-User%20has%20adress)
+[Request: User has a list of addresses with missing zipcodes and needs to validate them and get the zipcode.](https://github.com/Impcodeisok/excel/blob/main/README.md#:~:text=of%20Excel%20code-,Missing%20Zip%20Codes,-User%20has%20adress)
 
 
 
