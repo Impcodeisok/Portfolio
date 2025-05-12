@@ -6,7 +6,7 @@ EMR Remote Resource Coordinator for Datavant.
 
 Created a process using Power BI and Excel to reduce unnamed sites by 26% using historical data and provide a best guess to assist manual naming for over 20% of the remaining unnamed.
 Independently built ticket and credential management system in Power BI unifying information from five individual data sources to create a comprehensive tool and enhance usability of existing data, increasing workflow.
-Responsible for managing a ticketing system that averages !400 tickets per year.
+Responsible for managing a ticketing system that averages 1400 tickets per year.
 Built Excel based tools to help manage workflow and allow the proactive identification of potential problems for elimination.
 Maintain and update records regarding remote processor’s access to all applicable sites for remote record retrieval.
 Designed and implemented automatic reporting tool for credential updates for 120+ users, utilizing Excel/Power Query/Sharepoint.
